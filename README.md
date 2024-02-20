@@ -1,2 +1,3 @@
 # 2024s_qtm350_ps01
-# This project's goal is to learn about how to use GitHub for any future coding projects we wish to pursue. 
+# Project name: Benford's Audit
+# This project's goal is to have a program that can scan every 10K in existence and use Benford's Law to determine which companies are fraudulent. 
