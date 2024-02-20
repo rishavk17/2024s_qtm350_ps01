@@ -7,3 +7,4 @@ Rishav test message 2/20/24 5:39pm
 david's test message 2/20 at 5:52
 # Anish's section
 anish's test message 2/20 at 6:13
+# Challenges: issues in correct syntax, cloning the repo onto our local machines and then merging without conflict error. We resolved this by going through the course content and reading online
